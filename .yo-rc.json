@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "site-search-results",
+    "libraryId": "a317b508-ea4d-4a6b-8431-296ec41ad82b",
+    "framework": "react"
+  }
+}

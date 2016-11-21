@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "787f2930-6d85-49d0-8231-447976fd67f7",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "787f2930-6d85-49d0-8231-447976fd67f7",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SiteSearchResults" },
+    "description": { "default": "Displays Search Results in your current Site" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SiteSearchResults"
+    }
+  }]
+}

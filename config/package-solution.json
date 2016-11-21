@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "site-search-results-client-side-solution",
+    "id": "a317b508-ea4d-4a6b-8431-296ec41ad82b",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/site-search-results.spapp"
+  }
+}
